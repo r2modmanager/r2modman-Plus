@@ -1,0 +1,9 @@
+release: 3.2.21
+mirrors:
+  - ccdn
+installers:
+  - bepinex
+  - melonloader
+  - lovely
+  - mio
+flatpak_metainfo: true
